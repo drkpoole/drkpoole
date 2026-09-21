@@ -16,7 +16,7 @@ A freight intelligence and monetization platform — a decision layer above the 
 - Carrier-Aware Pricing Harness — negotiated rate and surcharge modeling across 11 LTL carriers
 - Company Setup — tenant configuration hub covering carriers, users, and EDI integrations
 
-Currently private while in active development — glad to walk through it in conversation.
+Currently private while in active development — glad to walk through it in conversation. A sanitized excerpt of the DensityIQ pricing/dispute logic is public here: **[drkpoole/densityiq](https://github.com/drkpoole/densityiq)**.
 
 ## Tech stack
 Python, React / React Native (Expo), EDI/X12 (Orderful), Salesforce, Power BI, SQL
