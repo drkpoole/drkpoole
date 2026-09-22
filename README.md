@@ -1,11 +1,11 @@
 ## Hi, I'm Derek Poole 👋
 
-Freight brokerage founder building the intelligence layer freight has never had.
+Freight brokerage founder building the intelligence layer for LTL freight.
 
 ## About me
-- 12+ years across enterprise SaaS implementation, supply chain consulting, and freight brokerage founding
+- 12+ years across enterprise SaaS implementation, supply chain consulting, and freight brokerage
 - Deep LTL/FTL/intermodal freight expertise
-- Founder, Southwell Frate Inc. — a Toronto-based freight brokerage
+- Southwell Frate Inc. — a Toronto-based freight brokerage
 - Based in the Greater Toronto Area, Canada
 
 ## What I'm building — ShipperOS
@@ -22,6 +22,6 @@ Currently private while in active development — glad to walk through it in con
 Python, React / React Native (Expo), EDI/X12 (Orderful), Salesforce, Power BI, SQL
 
 ## What I'm looking for
-Solutions Engineer, Implementation Consultant, or senior product roles at logistics-tech SaaS companies, where deep freight domain expertise meets hands-on prototype building.
+Solutions, Implementation Consultant, or product roles at supply chain tech SaaS companies, where deep freight domain expertise meets hands-on prototype building.
 
 📍 Greater Toronto Area, Canada
