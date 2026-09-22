@@ -22,6 +22,6 @@ Currently private while in active development — glad to walk through it in con
 Python, React / React Native (Expo), EDI/X12 (Orderful), Salesforce, Power BI, SQL
 
 ## What I'm looking for
-Solutions, Implementation Consultant, or product roles at supply chain tech SaaS companies, where deep freight domain expertise meets hands-on prototype building.
+Solutions, Implementation or Deployment Specialist / Consultant, or product roles at supply chain tech SaaS companies, where deep freight domain expertise meets hands-on prototype building.
 
 📍 Greater Toronto Area, Canada
